@@ -1,1 +1,1 @@
-Woordenboekje is a marriage between [wiktionary](https://wiktionary.org) and [anki](https://apps.ankiweb.net/)-style word learning.
+**Woordenboekje** [/ˈʋoːrdə(n)ˌbukjə/](https://en.wiktionary.org/wiki/woordenboekje) is a marriage between [wiktionary](https://wiktionary.org) and [anki](https://apps.ankiweb.net/)-style word learning.
