@@ -1,1 +1,15 @@
-**Woordenboekje** [/ˈʋoːrdə(n)ˌbukjə/](https://en.wiktionary.org/wiki/woordenboekje) is a marriage between [wiktionary](https://wiktionary.org) and [anki](https://apps.ankiweb.net/)-style word learning.
+# Project Name: Lyrics
+## Description: 
+Lyrics — приложение для изучения английского языка по песням. Пользователь может выбрать песню, режим прослушивания, посмотреть перевод любых слов. Имеется функция словаря, где можно хранить любые слова для их лучшего запоминания.
+## Installation: 
+   
+## Usage: 
+
+## Sub modules:
+Веб-приложение https://github.com/fpmi-hci/proekt13-web-woordenboekje
+
+Мобильное приложение https://github.com/fpmi-hci/proekt13-mobile-woordenboekje
+## Contributing: 
+Павел Аксютин - Проектирование человеко-машиннго интерфейса приложения
+
+Герман Януш  - Реализация приложения
