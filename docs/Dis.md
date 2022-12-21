@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Функциональные требования
+title: Описание проекта
 ---
 
 # Project Name: Lyrics
