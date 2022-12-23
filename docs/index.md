@@ -18,4 +18,4 @@ title: Приложение для изучения английского яз�
 [Перейти на страницу с отчетами по проекту](./reports.md)
 
 # Презентация проекта
-[Ссылка на презентацию проекта](https://docs.google.com/presentation/d/1g2vLfmDrCj_A4FjasEE38wjT43-9KLxF075kNuNDcJA/edit?hl=ru#slide=id.p)
+[Ссылка на презентацию проекта](https://docs.google.com/presentation/d/1t6peHrQFJTADiWCj29oTD21HioOg7Efj/edit#slide=id.p36)
